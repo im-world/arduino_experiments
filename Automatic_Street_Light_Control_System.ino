@@ -3,7 +3,7 @@
 
 int ldrValue = 0;
 int lightThreshold = 100;  
-int delayTime = 1000;     //one minute delay
+int delayTime = 1000*60;     //one minute delay
 
 void setup() {
   // put your setup code here, to run once:
