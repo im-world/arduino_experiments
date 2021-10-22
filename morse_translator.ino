@@ -1,4 +1,4 @@
-// Outputs user input as morse code conveyed through the built-in LED
+// Morse code conveyed using the built-in LED
 
 const int dotDelay = 200;
 
